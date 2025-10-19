@@ -1,0 +1,14 @@
+pandas
+numpy
+ccxt
+python-dotenv
+flask
+aiohttp
+scikit-learn
+TA-Lib
+joblib
+optuna
+textblob
+tweepy
+feedparser
+scipy
